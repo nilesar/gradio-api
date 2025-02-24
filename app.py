@@ -7,7 +7,7 @@ import os
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Load TTS model
-tts = TTS(model_name="tts_models/en/ljspeech/fast_pitch").to(device)
+tts = TTS(model_name="tts_models/bn/custom/vits-male").to(device)
 
 # Ensure output directory exists
 output_dir = "output"
