@@ -1,7 +1,5 @@
 # 🗣️ Multilingual TTS App using Coqui TTS & Gradio
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Made at IIT BHU](https://img.shields.io/badge/made%20at-IIT(BHU)%20VARANASI-blue)
 
 This project is a **Multilingual Text-to-Speech (TTS) application** built using the [Coqui TTS](https://github.com/coqui-ai/TTS) library and [Gradio](https://gradio.app/) for the user interface. It allows you to input text and generate natural-sounding speech in **English and Bengali**, with both male and female voices available.
 
